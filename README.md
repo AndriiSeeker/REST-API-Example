@@ -1,4 +1,6 @@
-# REST API [FastAPI]
+# REST API
+FastAPI
+
 <a href="https://quotes-to-scrape.fly.dev/">Visit REST API Example</a>
 
 <a href="https://www.linkedin.com/in/andrii-svitelskyi-2a4775262/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
