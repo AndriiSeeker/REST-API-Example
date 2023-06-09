@@ -26,6 +26,7 @@ I used the next technologies and packages
   <li>Python</li>
   <li>HTML/CSS</li>
   <li>Bootstrap</li>
+  <li>Jinja2</li>
   <li>Rest API</li>
   <li>Cloudinary</li>
   <li>Postgres</li>
