@@ -29,7 +29,7 @@ I used the next technologies and packages
   <li>Jinja2</li>
   <li>Rest API</li>
   <li>Cloudinary</li>
-  <li>Postgres</li>
+  <li>PostgreSQL</li>
   <li>SQLAlchemy</li>
   <li>Alembic</li>
   <li>Docker</li>
